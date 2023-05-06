@@ -14,3 +14,12 @@ body,
 .leaflet-pane {
   z-index: 0 !important;
 }
+
+.rdrMonth {
+  width: 100% !important;
+}
+
+.rdrDateRangeWrapper {
+  width: 100% !important;
+  font-size: 16px !important;
+}
